@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="case:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/case_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="case/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="case" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/jar包/c3p0-0.9.2.1.jar" />
+          <element id="file-copy" path="E:/jar包/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="E:/jar包/commons-logging-1.2.jar" />
+          <element id="file-copy" path="E:/jar包/druid-1.0.9.jar" />
+          <element id="file-copy" path="E:/jar包/mysql-connector-java-5.1.37-bin.jar" />
+          <element id="file-copy" path="E:/jar包/mchange-commons-java-0.2.3.4.jar" />
+          <element id="file-copy" path="E:/jar包/javax.servlet.jsp_2.2.0.v201112011158.jar" />
+          <element id="file-copy" path="E:/jar包/jstl.jar" />
+          <element id="file-copy" path="E:/jar包/spring-beans-4.2.4.RELEASE.jar" />
+          <element id="file-copy" path="E:/jar包/jstl-1.2.jar" />
+          <element id="file-copy" path="E:/jar包/jsoup-1.12.1.jar" />
+          <element id="file-copy" path="E:/jar包/commons-io-2.4.jar" />
+          <element id="file-copy" path="E:/jar包/spring-jdbc-4.2.4.RELEASE.jar" />
+          <element id="file-copy" path="E:/jar包/spring-core-4.2.4.RELEASE.jar" />
+          <element id="file-copy" path="E:/jar包/spring-tx-4.2.4.RELEASE.jar" />
+          <element id="file-copy" path="E:/jar包/standard.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
